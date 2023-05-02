@@ -1,2 +1,2 @@
 # TCM-devops
-Assessment for DevOps, Module 2
+The Assessment for the Coding Mum for Module 2. DevOps Squads.
